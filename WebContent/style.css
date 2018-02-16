@@ -1,0 +1,311 @@
+#main {
+	width: 13750px;
+	font-family: Arial;
+}
+
+#header {
+	float:left;
+	border: 1px solid aqua;
+	width: 1375px;
+	height: 150px;
+}
+
+.menu{
+	width:200px;
+	height:500px;
+	float: left;
+	color: black;
+}
+
+.menu ul{
+	list-style: none;
+	margin: 0px;
+	padding:0px;
+}
+
+.menu ul li{
+	
+}
+
+.menu ul li a{
+	display: block;
+	text-decoration: none;
+	text-align: left;
+	padding: 5px 0px;
+	font: 15px verdana;
+	color: navy;
+}
+
+#sinavolustur{
+	border-left: 3px solid #FF940E;
+}
+
+#sinavolustur:hover {
+	background: #FF940E;
+}
+
+#optikoku{
+	border-left: 3px solid #0A49C4;
+}
+
+#optikoku:hover {
+	background: #0A49C4;
+}
+
+#cevapanahtari2{
+	border-left: 3px solid #FF940E;
+}
+
+#cevapanahtari2:hover {
+	background: #FF940E;
+}
+
+#sinavsonuclari{
+	border-left: 3px solid #0A49C4;
+	position: relative;
+}
+
+#sinavsonuclari:hover {
+	background: #0A49C4;
+}
+
+#sinavsonuclari ul{
+	border-left: 3px solid #0A49C4;
+	position: absolute;
+}
+
+.istatistikler{
+	border-left: 3px solid #FF940E;
+}
+
+.istatistikler:hover{
+	background: #FF940E;
+}
+
+.ogrencilistesi{
+	border-left: 3px solid #0A49C4;
+}
+
+.ogrencilistesi:hover{
+	background: #0A49C4;
+}
+
+.ogrencibilgileri{
+	border-left: 3px solid #FF940E;
+}
+
+.ogrencibilgileri:hover{
+	background: #FF940E;
+}
+
+.nothesabi{
+	border-left: 3px solid #0A49C4;
+}
+
+.nothesabi:hover{
+	background: #0A49C4;
+}
+
+
+
+.acilirmenu{
+	width:300px;
+	max-height:100%;
+	margin-left: 30px;
+	
+}
+
+.acilirmenu ul li a{
+	width:300px;
+	max-height:100%;
+	color: teal;
+	font-size: 13px;
+	tran
+}
+
+.menu ul li ul{
+	display: none;
+	
+}
+
+.menu ul li:hover ul{
+	display: block;
+
+}
+
+#login{
+	border-left: 3px solid #FF940E;
+}
+
+#login:hover {
+	background: #FF940E;
+}
+
+.sinavsonuclarikayitid{
+	width: 50px;
+}
+.sinavsonuclariogrno{
+	width: 100px;
+}
+
+.sinavsonuclariyil{
+	width: 85px;
+}
+
+.sinavsonuclaridonem{
+	width: 60px;
+}
+
+.sinavsonuclaridersadi{
+	width: 250px;
+}
+
+.sinavsonuclarikitapcik{
+	width: 60px;
+}
+
+.sinavsonuclarioturum{
+	width: 60px;
+}
+
+.sinavsonuclarisinavturu{
+	width: 90px;
+}
+
+.sinavsonuclaridogrusayisi{
+	width: 100px;
+}
+
+.sinavsonuclariyanlissayisi{
+	width: 100px;
+}
+
+.sinavsonuclaripuan{
+	width: 50px;
+}
+
+#content {
+	width: 1175px;
+	float: left;
+	min-height: 500px;
+	background-image: url("images/filigran.jpg");
+	background-size: 100%;
+}
+
+.optik {
+	width: 400px;
+	height: 950px;
+	float: right;
+}
+
+#footer {
+	width: 1375px;
+	max-height:50px;
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	float:left;
+	background-color: silver;
+}
+
+.scrollable {
+	height: 400px;
+	weight: 1000px;
+	overflow-y: scroll;
+	position: absolute;
+}
+
+#ogrencibilgileri {
+	width: 617px;
+	height: 300px;
+	float: left;
+}
+
+#kullaniciadi{
+	float: right;
+	position: relative;
+}
+
+#tablolistesiheader{
+	margin-left: 1px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cevapanahtari {
+	width: 1004px;
+	height: 600px;
+	border: 2px solid gray;
+	float: left;
+}
+
+.dersadi{
+	height: 40px;
+}
+.ingilizce {
+	width: 220px;
+	height: 620px;
+	border: 2px solid gray;
+	float: left;
+}
+
+.inkilap {
+	width: 220px;
+	height: 620px;
+	border: 2px solid gray;
+	float: left;
+}
+
+.turkdili {
+	width: 220px;
+	height: 620px;
+	border: 2px solid gray;
+	float: left;
+}
+
+.temelbiltek {
+	width: 220px;
+	height: 620px;
+	border: 2px solid gray;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+#lutfenbekleyiniz{
+	text-align: center;
+	font-size: large;
+}
+
+#lutfenbekleyiniz1{
+	text-align: center;
+	font-size: large;
+}
