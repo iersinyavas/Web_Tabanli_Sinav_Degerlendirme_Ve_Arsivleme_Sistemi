@@ -1,0 +1,1 @@
+Sistem çalýþmasý sýrasýnda bu klasörü kullanmaktadýr.

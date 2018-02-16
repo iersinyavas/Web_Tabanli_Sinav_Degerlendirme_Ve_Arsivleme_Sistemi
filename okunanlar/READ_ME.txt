@@ -1,0 +1,1 @@
+Örnek olarak okutulan optikler. Ve her dosyanýn adý öðrenci numarasý olacak þekilde arþivlenmiþtir.
